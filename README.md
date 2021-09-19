@@ -13,9 +13,9 @@ My main languages are `Python, Go, C#, Dart and JavaScript`
 `MongoDB, MySQL / MariaDB, PostreSQL, SQLite, Redis`
 
 ### Some hype frameworks
-I usually spend a lot of extra time writing my own frameworks and stuff, but I've bothered to learn these ones:
+I usually spend a lot of extra time writing my own frameworks and stuff (because you know, I love to reinvent the wheel so that it is **my own** wheel), but I've bothered to learn these ones:
 
-`Flask, Django (WIP), Vue.js, Flutter`
+`Flask, Django (WIP), Vue.js (THAT is what I call perfection tbh), Flutter`
 
 ### And some great and useful things
 `Git, Nginx, Docker (+ docker-compose), Kubernetes, Gunicorn, uWSGI`
