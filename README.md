@@ -42,6 +42,7 @@ Although my main languages are:
 I usually spend a lot of extra time writing my own frameworks and stuff (because you know, I love to reinvent the wheel so that it is **my own** wheel), but I've bothered to learn these ones:
 
 ![Flask](https://img.shields.io/badge/-Flask-161b22?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-161b22?style=flat-square&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-161b22?style=flat-square&logo=django)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs)
 ![Flutter](https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=Flutter)
@@ -53,6 +54,7 @@ I usually spend a lot of extra time writing my own frameworks and stuff (because
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square&logo=Kubernetes)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-161b22?style=flat-square&logo=RabbitMQ)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-161b22?style=flat-square&logo=gunicorn)
+![Uvicorn](https://img.shields.io/badge/-Uvicorn-161b22?style=flat-square&logo=uvicorn)
 ![WSGI](https://img.shields.io/badge/-WSGI-161b22?style=flat-square&logo=WSGI)
 
 ___
