@@ -51,6 +51,7 @@ I usually spend a lot of extra time writing my own frameworks and stuff (because
 ![Nginx](https://img.shields.io/badge/-Nginx-161b22?style=flat-square&logo=Nginx)
 ![Docker](https://img.shields.io/badge/-Docker-161b22?style=flat-square&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square&logo=Kubernetes)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-161b22?style=flat-square&logo=RabbitMQ)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-161b22?style=flat-square&logo=gunicorn)
 ![WSGI](https://img.shields.io/badge/-WSGI-161b22?style=flat-square&logo=WSGI)
 
