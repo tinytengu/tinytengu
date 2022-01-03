@@ -3,7 +3,7 @@
 
 Sup! **tinytengu** (not that tiny actually) here and I'm a software developer!
 
-I'm 19 and I've been a developer for 5 years now and here's my skills
+I'm 20 and I've been a developer for 6 years now and here's my skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python)
