@@ -9,7 +9,7 @@ I'm 20 and I've been a developer for 6 years now and here's my skills
 ![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python)
 ![Golang](https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go)
 ![C](https://img.shields.io/badge/-C-161b22?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-_(w/_WPF)-161b22?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-_-161b22?style=flat-square&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C++-161b22?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-161b22?style=flat-square&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=JavaScript)
@@ -18,15 +18,13 @@ I'm 20 and I've been a developer for 6 years now and here's my skills
 ![Ruby](https://img.shields.io/badge/-Ruby-161b22?style=flat-square&logo=Ruby)
 ![Pawn](https://img.shields.io/badge/-Pawn-161b22?style=flat-square&logo=Pawn)
 
-A Swiss knife man, indeed. I use some of them quite rarely and don't really pretend to be **highly** qualified, but if they're necessary for the task, then there will be no problemo 🗿
+A Swiss knife man, indeed. I use some of them quite **never** and don't really pretend to be **highly** qualified, but if they're necessary for the task, then there will be no problemo 🗿
 
 Although my main languages are:
 
 ![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python)
 ![Golang](https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go)
 ![C#](https://img.shields.io/badge/-_(w/_WPF)-161b22?style=flat-square&logo=c-sharp)
-![C#](https://img.shields.io/badge/-C++-161b22?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-161b22?style=flat-square&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=JavaScript)
 
 
@@ -39,12 +37,12 @@ Although my main languages are:
 
 
 ### Frameworks
-I usually spend a lot of extra time writing my own frameworks and stuff (because you know, I love to reinvent the wheel so that it is **my own** wheel), but I've bothered to learn these ones:
+I like to reinvent my own wheel, but the market is the market, so I learned these frameworks
 
 ![Flask](https://img.shields.io/badge/-Flask-161b22?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-161b22?style=flat-square&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-161b22?style=flat-square&logo=django)
-![Vue.js](https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs)
+![VueJS](https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs)
 ![Flutter](https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=Flutter)
 
 ### And some great and useful things
@@ -57,6 +55,6 @@ I usually spend a lot of extra time writing my own frameworks and stuff (because
 ![WSGI](https://img.shields.io/badge/-WSGI-161b22?style=flat-square&logo=WSGI)
 
 ___
-📧 [tinytengu@protonmail.com](mailto:tinytengu@protonmail.com)
+📧 [tinytengu@yandex.ru](mailto:tinytengu@yandex.ru)
 ___
 Check out my [projects](https://github.com/tinytengu?tab=repositories&q=&type=&language=&sort=stargazers) and [gist](https://gist.github.com/tinytengu) as well.
