@@ -24,7 +24,7 @@ Although my main languages are:
 
 ![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python)
 ![Golang](https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go)
-![C#](https://img.shields.io/badge/-_(w/_WPF)-161b22?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-_-161b22?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=JavaScript)
 
 
