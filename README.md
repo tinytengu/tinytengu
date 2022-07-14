@@ -19,7 +19,9 @@ Of course I use DBMS such as
 It is expected that I use some of frameworks for Backend and Frontend
 ![Flask](https://img.shields.io/badge/-Flask-161b22?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django_(w/_DRF)-161b22?style=flat-square&logo=django)
-![VueJS](https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs)
+![Vue.js](https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs)
+![React.js](https://img.shields.io/badge/-React.js-161b22?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-161b22?style=flat-square&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=Flutter)
 
 And some great and useful things that I use
