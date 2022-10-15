@@ -5,6 +5,7 @@ My primary languages are
 ![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python)
 ![Golang](https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go)
 ![C#](https://img.shields.io/badge/-C%23-161b22?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-161b22?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=flat-square&logo=TypeScript)
 ![Dart](https://img.shields.io/badge/-Dart-161b22?style=flat-square&logo=Dart)
