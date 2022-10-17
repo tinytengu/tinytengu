@@ -23,6 +23,7 @@ It is expected that I use some of frameworks for Backend and Frontend
 ![Vue.js](https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs)
 ![React.js](https://img.shields.io/badge/-React.js-161b22?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-161b22?style=flat-square&logo=next.js)
+![JavaFX](https://img.shields.io/badge/-JavaFX-161b22?style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=Flutter)
 
 And some great and useful things that I use
