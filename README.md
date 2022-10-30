@@ -36,7 +36,9 @@ And some great and useful things that I use
 ![Vite](https://img.shields.io/badge/-Vite-161b22?style=flat-square&logo=vite)
 
 ___
-📧 [tinytengu@yandex.ru](mailto:tinytengu@yandex.ru)
+Personal website: [tinytengu.github.io](https://tinytengu.github.io)
+
+Email: [tinytengu@yandex.ru](mailto:tinytengu@yandex.ru)
 ___
 Check out my [projects](https://github.com/tinytengu?tab=repositories&q=&type=&language=&sort=stargazers) and [gist](https://gist.github.com/tinytengu) as well.
 
