@@ -37,7 +37,7 @@ ___
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Django_(DRF_only)-161b22?style=flat-square&logo=django&logoColor=white&color=black" alt="Django" />
+<img src="https://img.shields.io/badge/-Django-161b22?style=flat-square&logo=django&logoColor=white&color=black" alt="Django" />
 <img src="https://img.shields.io/badge/-Flask-161b22?style=flat-square&logo=flask&logoColor=white&color=black" alt="Flask" />
 <img src="https://img.shields.io/badge/-Vue.js-161b22?style=flat-square&logo=vuedotjs&logoColor=white&color=black" alt="Vue" />
 <img src="https://img.shields.io/badge/-React.js-161b22?style=flat-square&logo=react&logoColor=white&color=black" alt="React" />
