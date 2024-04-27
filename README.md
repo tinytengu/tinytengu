@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  I'm <b>tinytengu</b>, I'm 21 y.o. developer from Russia with over 6 years of experience.
+  I'm <b>tinytengu</b>, I'm 22 y.o. developer from Russia with over 6 years of experience.
 </p>
 
 <p align="center">
